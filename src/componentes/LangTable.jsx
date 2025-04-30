@@ -70,6 +70,8 @@ const LangTable = () => {
                         </tr>
                     </tbody>
                 </table>
+                <br />
+                <br />
     </>
   )
 }
