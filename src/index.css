@@ -188,3 +188,37 @@ tr {
   width: 80%;
   margin: auto;
 }
+
+.ancla_acerca {
+  margin-left: 200px;
+  margin-top: -19px;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: stretch;
+  align-content: center;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.card {
+  width: 250px;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: rgb(51, 51, 51);
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.nombrecard {
+  color: white;
+  font-weight: bolder;
+}

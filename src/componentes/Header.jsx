@@ -11,7 +11,7 @@ const Header = () => {
             <br />
             <nav>
                 <a href="" className="ancla_nav"><strong>Home</strong></a>
-                <a href="" className="ancla_nav"><strong>Acerca de Nosotros</strong></a>
+                
                 <a href="https://frt.utn.edu.ar/" target="_blank" className="ancla_nav"><strong>Utn Frt 2025</strong></a>
             </nav>
             </div>
